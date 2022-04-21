@@ -1,0 +1,9 @@
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\bin\Debug\GuessWord.exe.config
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\obj\Debug\GuessWord.csprojResolveAssemblyReference.cache
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\obj\Debug\GuessWord.Form1.resources
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\obj\Debug\GuessWord.Properties.Resources.resources
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\obj\Debug\GuessWord.csproj.GenerateResource.Cache
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\bin\Debug\GuessWord.exe
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\bin\Debug\GuessWord.pdb
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\obj\Debug\GuessWord.exe
+c:\users\airemar\Documents\Visual Studio 2015\Projects\GuessWord\GuessWord\obj\Debug\GuessWord.pdb
